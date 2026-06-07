@@ -1,0 +1,6 @@
+Cd Desktop
+Mkdir git-one
+Cd..
+open .
+ls
+ls -la
